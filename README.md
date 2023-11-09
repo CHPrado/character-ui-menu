@@ -21,3 +21,16 @@ In this game you can chose one of three paragon characters by using an interacti
 - create a game save, load a game save, and overwrite a game save
 - make character data editable and save updated data
 - toggle playable characters
+
+<details>
+  <summary>Screenshots</summary>
+  
+![image](https://github.com/CHPrado/character-ui-menu/assets/27180625/83471a7a-7c22-4784-8208-4fc92d8151e7)
+
+![image](https://github.com/CHPrado/character-ui-menu/assets/27180625/338bd78c-f123-4a08-8e14-77287329372b)
+
+![image](https://github.com/CHPrado/character-ui-menu/assets/27180625/426b81bd-3a54-43ab-8a60-a0cad7101d6d)
+
+![image](https://github.com/CHPrado/character-ui-menu/assets/27180625/c7977bc4-bc55-4986-b268-f9ffdea940a1)
+
+</details>
